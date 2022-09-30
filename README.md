@@ -11,24 +11,10 @@ This is the place where I opensource stuff and break things :rofl:
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/toptalenteddev/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-53n7)
 <!-- BLOG-POST-LIST:END -->
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TopTalentedDev&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
-### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 10K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
-
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
+I have 5 years of experience in blockchain software engineering since 2017.
+With an eye for emerging trends and ever-evolving industry, I am always a student of something new all the time. I am a computer science graduate with Gold Medal. As soon as I finished my degree, I started earning certifications in trending technologies. One might say that I am most experienced in the industrial implementation of software solutions, but that is just not it. I am also an active researcher in computer science with a specific interest in Blockchain and Distributed Computing.
 
 ```
   ____                  ____                      
@@ -45,8 +31,6 @@ All of my projects are released as open-source on GitHub, this includes some of 
 Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
 
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can learn more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
 
 Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
 
@@ -66,10 +50,5 @@ Most of the open-source projects I create are the solutions to the problems I fa
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
 </details>
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
